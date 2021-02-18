@@ -36,9 +36,6 @@ namespace cycle
                      difference -= collection[x];
                      x++;
                     }
-           
-            
-
               Console.WriteLine($"Сумма всех чисел массива = {sum}");
               Console.WriteLine($"Произведение всех чисел массива = {multiplication}");
               Console.WriteLine($"Разность всех чисел массива = {difference}");
